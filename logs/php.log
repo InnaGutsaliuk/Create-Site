@@ -1,0 +1,302 @@
+2019-12-13 14:49:54: Notice: [Undefined index: id]
+at file C:\OSPanel\domains\vagrant\public\modules\pets\view\main.tpl in line 10
+=================================================
+
+2019-12-13 14:49:54: Error: [Uncaught Error: Call to undefined function hs() in C:\OSPanel\domains\vagrant\public\modules\pets\view\main.tpl:13
+Stack trace:
+#0 C:\OSPanel\domains\vagrant\public\index.php(232): require()
+#1 C:\OSPanel\domains\vagrant\public\index.php(250): FrontController::init('pets')
+#2 {main}
+  thrown]
+at file C:\OSPanel\domains\vagrant\public\modules\pets\view\main.tpl in line 13
+=================================================
+
+2019-12-13 14:50:48: Notice: [Undefined index: id]
+at file C:\OSPanel\domains\vagrant\public\modules\pets\view\main.tpl in line 10
+=================================================
+
+2019-12-13 14:50:48: Notice: [Undefined index: id]
+at file C:\OSPanel\domains\vagrant\public\modules\pets\view\main.tpl in line 10
+=================================================
+
+2019-12-13 14:50:48: Notice: [Undefined index: id]
+at file C:\OSPanel\domains\vagrant\public\modules\pets\view\main.tpl in line 10
+=================================================
+
+2019-12-13 14:50:48: Notice: [Undefined index: id]
+at file C:\OSPanel\domains\vagrant\public\modules\pets\view\main.tpl in line 10
+=================================================
+
+2019-12-13 14:50:48: Notice: [Undefined index: id]
+at file C:\OSPanel\domains\vagrant\public\modules\pets\view\main.tpl in line 10
+=================================================
+
+2019-12-13 14:50:48: Notice: [Undefined index: id]
+at file C:\OSPanel\domains\vagrant\public\modules\pets\view\main.tpl in line 10
+=================================================
+
+2019-12-13 16:17:08: Notice: [Undefined index: id]
+at file C:\OSPanel\domains\vagrant\public\modules\pets\view\main.tpl in line 64
+=================================================
+
+2019-12-13 16:17:08: Notice: [Undefined index: id]
+at file C:\OSPanel\domains\vagrant\public\modules\pets\view\main.tpl in line 64
+=================================================
+
+2019-12-13 16:17:08: Notice: [Undefined index: id]
+at file C:\OSPanel\domains\vagrant\public\modules\pets\view\main.tpl in line 64
+=================================================
+
+2019-12-13 16:17:08: Notice: [Undefined index: id]
+at file C:\OSPanel\domains\vagrant\public\modules\pets\view\main.tpl in line 64
+=================================================
+
+2019-12-13 16:17:08: Notice: [Undefined index: id]
+at file C:\OSPanel\domains\vagrant\public\modules\pets\view\main.tpl in line 64
+=================================================
+
+2019-12-13 16:17:08: Notice: [Undefined index: id]
+at file C:\OSPanel\domains\vagrant\public\modules\pets\view\main.tpl in line 64
+=================================================
+
+2019-12-17 19:38:48: Complite error: [Cannot use [] for reading]
+at file C:\OSPanel\domains\vagrant\public\modules\pets\main.php in line 21
+=================================================
+
+2019-12-17 19:44:52: Notice: [Array to string conversion]
+at file C:\OSPanel\domains\vagrant\public\modules\pets\main.php in line 7
+=================================================
+
+2019-12-19 15:25:42: Notice: [Array to string conversion]
+at file C:\OSPanel\domains\vagrant\public\modules\pets\view\main.tpl in line 2
+=================================================
+
+2019-12-26 22:48:01: Warning: [Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP)]
+at file C:\OSPanel\domains\vagrant\public\skins\index.tpl in line 138
+=================================================
+
+2019-12-26 22:48:03: Warning: [Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP)]
+at file C:\OSPanel\domains\vagrant\public\skins\index.tpl in line 138
+=================================================
+
+2019-12-26 22:48:05: Warning: [Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP)]
+at file C:\OSPanel\domains\vagrant\public\skins\index.tpl in line 138
+=================================================
+
+2019-12-26 22:48:10: Warning: [Use of undefined constant php - assumed 'php' (this will throw an Error in a future version of PHP)]
+at file C:\OSPanel\domains\vagrant\public\skins\index.tpl in line 138
+=================================================
+
+2019-12-28 17:58:12: Notice: [Undefined variable: name]
+at file C:\OSPanel\domains\vagrant\public\modules\main\main.php in line 29
+=================================================
+
+2019-12-28 17:58:12: Notice: [Undefined variable: phone]
+at file C:\OSPanel\domains\vagrant\public\modules\main\main.php in line 29
+=================================================
+
+2019-12-28 18:46:17: Notice: [Undefined index: authorization]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 2
+=================================================
+
+2019-12-28 18:46:17: Warning: [require(./modules/lesson/user/.php): failed to open stream: No such file or directory]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 2
+=================================================
+
+2019-12-28 18:46:17: Complite error: [require(): Failed opening required './modules/lesson/user/.php' (include_path='.')]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 2
+=================================================
+
+2019-12-28 18:46:59: Notice: [Undefined index: authorization]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 2
+=================================================
+
+2019-12-28 18:46:59: Warning: [require(./modules/lesson/user/.php): failed to open stream: No such file or directory]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 2
+=================================================
+
+2019-12-28 18:46:59: Complite error: [require(): Failed opening required './modules/lesson/user/.php' (include_path='.')]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 2
+=================================================
+
+2019-12-28 18:48:59: Warning: [require(./modules/lesson/user/authorization.tpl): failed to open stream: No such file or directory]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 3
+=================================================
+
+2019-12-28 18:48:59: Complite error: [require(): Failed opening required './modules/lesson/user/authorization.tpl' (include_path='.')]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 3
+=================================================
+
+2019-12-28 18:58:07: Warning: [require(./modules/lesson/user.php): failed to open stream: No such file or directory]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-28 18:58:07: Complite error: [require(): Failed opening required './modules/lesson/user.php' (include_path='.')]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-28 19:01:01: Warning: [require(./modules/lesson/user.php): failed to open stream: No such file or directory]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-28 19:01:02: Complite error: [require(): Failed opening required './modules/lesson/user.php' (include_path='.')]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-28 19:01:05: Notice: [Undefined index: authorization]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 2
+=================================================
+
+2019-12-28 19:01:05: Warning: [require(./modules/lesson/user/.php): failed to open stream: No such file or directory]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 2
+=================================================
+
+2019-12-28 19:01:05: Complite error: [require(): Failed opening required './modules/lesson/user/.php' (include_path='.')]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 2
+=================================================
+
+2019-12-28 19:01:36: Warning: [require(./modules/lesson/user.php): failed to open stream: No such file or directory]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-28 19:01:36: Complite error: [require(): Failed opening required './modules/lesson/user.php' (include_path='.')]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-29 18:34:29: Notice: [Undefined index: _module]
+at file C:\OSPanel\domains\vagrant\public\skins\index.tpl in line 100
+=================================================
+
+2019-12-29 18:48:59: Notice: [Undefined index: page2]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-29 18:48:59: Warning: [require(./modules/lesson/main/.php): failed to open stream: No such file or directory]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-29 18:48:59: Complite error: [require(): Failed opening required './modules/lesson/main/.php' (include_path='.')]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-29 18:55:44: Notice: [Undefined index: page2]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-29 18:55:44: Warning: [require(./modules/lesson/main/.php): failed to open stream: No such file or directory]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-29 18:55:44: Complite error: [require(): Failed opening required './modules/lesson/main/.php' (include_path='.')]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-29 18:55:50: Notice: [Undefined index: page2]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-29 18:55:50: Warning: [require(./modules/lesson/main/.php): failed to open stream: No such file or directory]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-29 18:55:50: Complite error: [require(): Failed opening required './modules/lesson/main/.php' (include_path='.')]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-29 18:58:26: Parse: [syntax error, unexpected '=>' (T_DOUBLE_ARROW)]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\sitemap\sitemap.php in line 18
+=================================================
+
+2019-12-29 18:58:49: Notice: [Undefined index: page2]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-29 18:58:49: Warning: [require(./modules/lesson/main/.php): failed to open stream: No such file or directory]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-29 18:58:49: Complite error: [require(): Failed opening required './modules/lesson/main/.php' (include_path='.')]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-29 23:12:53: Notice: [Undefined index: id]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\login\activate.php in line 3
+=================================================
+
+2019-12-29 23:12:55: Notice: [Undefined index: hash]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\login\activate.php in line 3
+=================================================
+
+2019-12-29 23:14:28: Warning: [require(./modules/lesson/login/unsubckribe.php): failed to open stream: No such file or directory]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-29 23:14:28: Complite error: [require(): Failed opening required './modules/lesson/login/unsubckribe.php' (include_path='.')]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-29 23:14:51: Notice: [Undefined index: id]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\login\activate.php in line 3
+=================================================
+
+2019-12-29 23:14:51: Notice: [Undefined index: hash]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\login\activate.php in line 3
+=================================================
+
+2019-12-29 23:14:55: Notice: [Undefined index: id]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\login\activate.php in line 3
+=================================================
+
+2019-12-29 23:14:55: Notice: [Undefined index: hash]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\login\activate.php in line 3
+=================================================
+
+2019-12-30 00:04:05: Notice: [Undefined index: page2]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-30 00:04:05: Warning: [require(./modules/lesson/main/.php): failed to open stream: No such file or directory]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-30 00:04:05: Complite error: [require(): Failed opening required './modules/lesson/main/.php' (include_path='.')]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-30 00:07:13: Notice: [Undefined index: page2]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-30 00:07:13: Warning: [require(./modules/lesson/login/.php): failed to open stream: No such file or directory]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-30 00:07:13: Complite error: [require(): Failed opening required './modules/lesson/login/.php' (include_path='.')]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-30 00:09:26: Notice: [Undefined index: page2]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-30 00:09:26: Warning: [require(./modules/lesson/login/.php): failed to open stream: No such file or directory]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-30 00:09:26: Complite error: [require(): Failed opening required './modules/lesson/login/.php' (include_path='.')]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-30 00:10:44: Notice: [Undefined index: page2]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-30 00:10:44: Warning: [require(./modules/lesson/login/.php): failed to open stream: No such file or directory]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+2019-12-30 00:10:44: Complite error: [require(): Failed opening required './modules/lesson/login/.php' (include_path='.')]
+at file C:\OSPanel\domains\vagrant\public\modules\lesson\controller\controller.php in line 10
+=================================================
+
+

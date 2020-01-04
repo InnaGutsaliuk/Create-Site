@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin
+Disallow: /lesson
+Disallow: /pets
+Disallow: /news
+Host: https://create-site.by
+Sitemap: https://create-site.by/sitemap.xml
